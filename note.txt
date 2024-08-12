@@ -6,3 +6,9 @@
 6. add cors origins allow all to settings.py
 7. add a simple view to myapi
 8. update main urls.py file and add urls.py file to myapi
+9. in frontend, create a new simple react component
+10. use axios to send a get request to view that was recently created
+11. import the component in App.js and render it
+12. open two terminal windows
+13. in one, run django server, in another use 'npm start' to run react
+14. navigate to localhost:3000 to view the result
