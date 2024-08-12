@@ -1,0 +1,8 @@
+1. create new django project and install drf, django cors
+2. create new react project
+3. add myapi app in django
+4. add myapi to installed_apps in django
+5. add middelware (cors middelware above common middelware)
+6. add cors origins allow all to settings.py
+7. add a simple view to myapi
+8. update main urls.py file and add urls.py file to myapi
